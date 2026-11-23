@@ -1,0 +1,6 @@
+{
+  "name": "R3UP Chicago Device Trade-In & Real-Time Appraisal",
+  "description": "Real-time device valuation widget and local Chicago trade-in portal featuring instant AI photo diagnostic inspection, multi-buyer rate comparison, and same-day in-person drop-off hub scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
